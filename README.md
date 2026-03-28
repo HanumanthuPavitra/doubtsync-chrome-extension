@@ -22,9 +22,6 @@ DoubtSync allows users to save doubts along with timestamps and revisit them ins
 4. Click Load Unpacked
 5. Select the project folder
 
-## 🎥 Demo
-(Add your video link here)
-
 ## 📌 Tech Stack
 - HTML
 - CSS
